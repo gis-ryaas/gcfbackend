@@ -1,4 +1,4 @@
-module github.com/gis-ryaas/gcfbackend
+module github.com/gis-ryaas/gcfbackendyas
 
 go 1.20
 
